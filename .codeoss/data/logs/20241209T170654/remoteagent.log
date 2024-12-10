@@ -1,0 +1,20 @@
+2024-12-09 17:06:55.045 [info] 
+
+
+
+
+2024-12-09 17:06:55.061 [info] Extension host agent started.
+2024-12-09 17:06:55.080 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fuzlan2019/.codeoss/extensions
+2024-12-09 17:06:55.093 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fuzlan2019/.codeoss/extensions
+2024-12-09 17:07:11.191 [info] [127.0.0.1][d52f0fa2][ExtensionHostConnection] New connection established.
+2024-12-09 17:07:11.192 [info] [127.0.0.1][a33a2086][ManagementConnection] New connection established.
+2024-12-09 17:07:12.959 [info] [127.0.0.1][d52f0fa2][ExtensionHostConnection] <1300> Launched Extension Host Process.
+2024-12-09 17:08:04.035 [info] [127.0.0.1][a33a2086][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-09 17:08:07.183 [info] [127.0.0.1][01d23c3e][ManagementConnection] New connection established.
+2024-12-09 17:08:07.192 [info] [127.0.0.1][d9ed56f4][ExtensionHostConnection] New connection established.
+2024-12-09 17:08:07.196 [info] [127.0.0.1][d9ed56f4][ExtensionHostConnection] <1463> Launched Extension Host Process.
+2024-12-09 17:11:24.295 [info] [127.0.0.1][01d23c3e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-09 17:12:00.627 [info] [127.0.0.1][62592296][ManagementConnection] New connection established.
+2024-12-09 17:12:00.668 [info] [127.0.0.1][44a027c8][ExtensionHostConnection] New connection established.
+2024-12-09 17:12:00.672 [info] [127.0.0.1][44a027c8][ExtensionHostConnection] <2510> Launched Extension Host Process.
+2024-12-09 17:13:07.405 [info] [127.0.0.1][d52f0fa2][ExtensionHostConnection] <1300> Extension Host Process exited with code: 0, signal: null.

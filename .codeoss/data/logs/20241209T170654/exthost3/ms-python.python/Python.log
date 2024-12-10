@@ -1,0 +1,5 @@
+2024-12-09 17:12:06.965 [warning] Dir "/home/fuzlan2019/hello-world-1/.pixi/envs" is not watchable (directory does not exist)
+2024-12-09 17:12:06.965 [info] Python interpreter path: /bin/python
+2024-12-09 17:12:07.142 [info] > pyenv which python
+2024-12-09 17:12:07.142 [info] cwd: .
+2024-12-09 17:12:08.365 [info] Starting Jedi language server for hello-world-1.
